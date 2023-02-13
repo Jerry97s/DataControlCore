@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Core.cs" />
     <Compile Include="DATA\CBaseDB.cs" />
+    <Compile Include="DATA\CData.cs" />
     <Compile Include="DATA\CIni.cs" />
     <Compile Include="DATA\CSqlite.cs" />
     <Compile Include="NET\CSendQueue.cs" />

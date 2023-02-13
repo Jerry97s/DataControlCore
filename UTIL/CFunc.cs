@@ -572,6 +572,12 @@ namespace iNervCore.UTIL
         }
         #endregion
 
+        public static void LoadConfig()
+        {
+
+        }
+
+
         #region MakeData
        
         #endregion
